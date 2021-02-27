@@ -1,0 +1,10 @@
+autocd
+nocaseglob
+combiningchars
+correct
+correctall
+interactive
+login
+monitor
+shinstdin
+zle
